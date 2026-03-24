@@ -1,11 +1,8 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=🧠+Productivity+Suite;Focus.+Track.+Conquer." alt="Typing SVG" />
-
+🧠 Productivity Suite
+Focus. Track. Conquer.
 <br/>
-
 <p><em>A fully client-side productivity suite built in React — featuring a Pomodoro timer, task manager with filtering & sorting, habit tracker with streaks, Google Calendar-style view, and a multi-period analytics dashboard. No backend required — all data persists via localStorage.</em></p>
-
 <br/>
 
 
