@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-apexproductivity.netlify.app-6366f1?style=for-the-badge)](https://apexproductivity.netlify.app/)
+
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 [![No Backend](https://img.shields.io/badge/Backend-None%20Required-22c55e?style=for-the-badge&logo=databricks&logoColor=white)]()
 [![Netlify](https://img.shields.io/badge/Hosted%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://apexproductivity.netlify.app/)
@@ -185,15 +185,18 @@ productivity-suite/
 
 | Pomodoro — Idle | Pomodoro — Focus Mode |
 |:---:|:---:|
-| _(screenshot)_ | _(screenshot)_ |
+| <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c012a0bd-0684-4a5f-bff4-3ad7961b2ca7" />|
+| <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/559b8974-0d57-458d-95ee-8603a660e079" />|
 
 | Task Manager | Habit Tracker |
 |:---:|:---:|
-| _(screenshot)_ | _(screenshot)_ |
+| <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b468c53-27a4-4632-9e2d-efea8690b61f" />| 
+| <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b84ee55-cfb6-4ca4-a408-2d8231866c5e" />|
 
 | Calendar View | Dashboard |
 |:---:|:---:|
-| _(screenshot)_ | _(screenshot)_ |
+| <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42857d70-da80-474c-979d-a2eb1220a933" />|
+| <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b67c295a-649b-4c56-b673-9af5815d1026" />|
 
 </div>
 
